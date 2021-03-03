@@ -16,8 +16,8 @@ Les phases 1 et 2 sont indépendantes, vous pouvez les faire dans n’importe qu
   - `pip install numpy`
   - `pip install mpi4py`
 #### Pour exécuter le programme avec 4 processeurs tapez:
-`mpiexec -n 6 python Produit_matrice_matrice.py`
+`mpiexec -n 4 python Produit_matrice_matrice.py`
 - Par défaut la taille des matrices est 12x12, vous pouvez lancer le programme avec un argument qui vas sera la dimension de la matrice.
 Par exemple pour initialiser une matrice de dimension 6x6 exécuter:
-  `mpiexec -n 6 python Produit_matrice_matrice.py 6`
+  `mpiexec -n 4 python Produit_matrice_matrice.py 6`
   
