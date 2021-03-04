@@ -12,7 +12,7 @@ Pour l'utilisation du code vous avez besoin d'installer Python, numpy et MPI
 Les phases 1 et 2 sont indépendantes, vous pouvez les faire dans n’importe quel ordre. Ce n’est pas la peine de réinstaller le python3 de Microsoft si vous l’avez déjà fait. Il suffir d’installelr les modules manquants.
 
 - ## Guide d'installation MPI sous Linux :
-  1) Il suffit d'ouvrir le terminal et installer les deux modules en tapant: 
+1) Il suffit d'ouvrir le terminal et installer les deux modules en tapant: 
   - `pip install numpy`
   - `pip install mpi4py`
 #### Pour exécuter le programme avec 4 processeurs tapez:
