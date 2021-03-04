@@ -1,5 +1,5 @@
 # MPI-matrice-product-python
-Ce programme a été réalisé dans le cadre de l'UE  MU5MAI06 - S2  Calcul parallèle de François-Xavier Roux. IL effectue produit de matrices par blocs.
+Ce programme a été réalisé dans le cadre de l'UE  MU5MAI06 - S2  Calcul parallèle de François-Xavier Roux. IL effectue le produit de matrices par blocs.
 
 Pour l'utilisation du code vous avez besoin d'installer Python, numpy et MPI 
 - ## Guide d'installation MPI sous window : 
